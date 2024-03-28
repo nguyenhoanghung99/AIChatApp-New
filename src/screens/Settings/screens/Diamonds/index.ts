@@ -1,0 +1,1 @@
+export {default as Diamonds} from "./Diamonds"

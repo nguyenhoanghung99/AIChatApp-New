@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "411754907720",
+    "project_id": "friendify-v2",
+    "storage_bucket": "friendify-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411754907720:android:7f227837392923f6ccf07d",
+        "android_client_info": {
+          "package_name": "friendify.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411754907720-0vfenni403rvmadbu3sdlfgg9q4lp0ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "friendify.playground",
+            "certificate_hash": "34056f576955cd357c41bfb3ef8a9d926d9a5863"
+          }
+        },
+        {
+          "client_id": "411754907720-s6hq74bhqekjrdp1esjgc29jcseabu4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "friendify.playground",
+            "certificate_hash": "5dc37cab041b95ef61d64f5567ee4b8f222a0118"
+          }
+        },
+        {
+          "client_id": "411754907720-t94i8oc9coodeiv15kn5gbha8t2g29ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "friendify.playground",
+            "certificate_hash": "e92dba04aaa7aa8934a8eb4c638383691f99bbd0"
+          }
+        },
+        {
+          "client_id": "411754907720-as3oup71hh0chhjun3ebi4kiscgmeopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WGhABiKc6wIgG9DRNqspGCMHXyYMA9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411754907720-as3oup71hh0chhjun3ebi4kiscgmeopm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411754907720-a4i1adb9jf7mgchbemgrfppva898rr1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "friendify.playground",
+                "app_store_id": "6446274776"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

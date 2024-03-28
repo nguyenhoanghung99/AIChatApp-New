@@ -1,0 +1,42 @@
+module.exports = {
+  presets: ['module:@react-native/babel-preset'],
+  plugins: [
+    'babel-plugin-transform-typescript-metadata',
+    ['@babel/plugin-proposal-decorators', { legacy: true }],
+    [
+      'module-resolver',
+      {
+        root: ['./'],
+        extensions: [
+          '.ios.ts',
+          '.android.ts',
+          '.ts',
+          '.ios.tsx',
+          '.android.tsx',
+          '.tsx',
+          '.jsx',
+          '.js',
+          '.json',
+        ],
+        alias: {
+          '@/assets': './src/assets',
+          '@/components': './src/components',
+          '@/constants': './src/constants',
+          '@/hocs': './src/hocs',
+          '@/hooks': './src/hooks',
+          '@/navigator': './src/navigator',
+          '@/screens': './src/screens',
+          '@/services': './src/services',
+          '@/themes': './src/themes',
+          '@/translations': './src/translations',
+          '@/utilities': './src/utilities',
+          '@/contexts': './src/contexts',
+          '@/stores': './src/stores',
+          '@/locale': './src/locale',
+        },
+      },
+    ],
+    ['react-native-reanimated/plugin'],
+    ['react-native-worklets-core/plugin'],
+  ],
+};

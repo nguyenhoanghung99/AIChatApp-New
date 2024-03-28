@@ -1,0 +1,2 @@
+type TLoginEmail = {};
+type TLoginSocial = {};

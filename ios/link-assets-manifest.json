@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/SegoeUI-Bold.ttf",
+      "sha1": "89708991c43f7e77e01aa4c0b45ef2d73f7cedd7"
+    },
+    {
+      "path": "src/assets/fonts/SegoeUI-BoldItalic.ttf",
+      "sha1": "ec4c3f481499f8f03cb4690f5b51c54f9a932392"
+    },
+    {
+      "path": "src/assets/fonts/SegoeUI-Italic.ttf",
+      "sha1": "899207bb000e511d95ab9ee59facb3cc7b24ba84"
+    },
+    {
+      "path": "src/assets/fonts/SegoeUI-Light.ttf",
+      "sha1": "1eedc97fe615f6c268538bbfa0fb10736f228f1d"
+    },
+    {
+      "path": "src/assets/fonts/SegoeUI-SemiBold.ttf",
+      "sha1": "c0433ed5767617f7e1de8884c983f0fa50acc4d1"
+    },
+    {
+      "path": "src/assets/fonts/SegoeUI.ttf",
+      "sha1": "2eb03e5a7eb7e8e90e174dca53b255d55a4825e2"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.eot",
+      "sha1": "faba2521e4dec853c34f70f16e876a0a03a3ee5c"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.svg",
+      "sha1": "a2cb7a67ed5d39a69c690fb28c89217f1cea32f5"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "ef0c0af681770a42da550c802b390abc62fddd8f"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.woff",
+      "sha1": "ec1fadd5ad7ff58ff872563b292630523d84e9b4"
+    },
+    {
+      "path": "src/assets/fonts/selection.json",
+      "sha1": "34e8d27dca369c3bbdd2a294a7474c196a3dac46"
+    }
+  ]
+}
